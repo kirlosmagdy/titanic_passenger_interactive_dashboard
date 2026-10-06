@@ -131,11 +131,7 @@ Raw Data → Audit → Cleaning → Feature Engineering → KPIs → EDA Charts 
 | `IsAlone` | `1` when `FamilySize == 1` |
 | `Age_Imputed` | `1` for rows whose age was estimated |
 
-## 📈 Dashboard
 
-> 📸 **Add a screenshot or GIF of your dashboard here** (save it as `images/dashboard.png`):
->
-> `![Dashboard](images/dashboard.png)`
 
 **Features:**
 - 🎛 **Filters:** passenger class, sex, and port of embarkation (multi-select)
